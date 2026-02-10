@@ -1,3 +1,25 @@
 {"timestamp": "2026-01-05T15:47:39.322396", "event": "connection", "client_ip": "172.20.0.1", "client_port": 40642}
 {"timestamp": "2026-01-05T15:47:47.059106", "event": "connection", "client_ip": "172.20.0.1", "client_port": 39300}
 {"timestamp": "2026-01-05T15:58:47.101147", "event": "connection", "client_ip": "172.20.0.1", "client_port": 58506}
+{"type": "server", "timestamp": "2026-02-09T21:46:00.546624", "source_ip": "0.0.0.0", "message": "Honeypot listening on 0.0.0.0:22"}
+{"type": "connection", "timestamp": "2026-02-09T22:20:41.507405", "source_ip": "192.168.65.1", "source_port": 27304}
+{"type": "client_banner", "timestamp": "2026-02-09T22:20:41.517702", "source_ip": "192.168.65.1", "message": "SSH-2.0-OpenSSH_9.9"}
+{"type": "disconnect", "timestamp": "2026-02-09T22:20:42.521875", "source_ip": "192.168.65.1", "duration_seconds": 1.0}
+{"type": "connection", "timestamp": "2026-02-09T22:21:47.272274", "source_ip": "192.168.65.1", "source_port": 38383}
+{"type": "auth_success", "timestamp": "2026-02-09T22:22:48.806736", "source_ip": "192.168.65.1", "message": "Accepted login as 'admin' (honeypot - always accepts on last try)"}
+{"type": "disconnect", "timestamp": "2026-02-09T22:23:24.876443", "source_ip": "192.168.65.1", "duration_seconds": 97.6}
+{"type": "server", "timestamp": "2026-02-10T04:50:06.129831", "source_ip": "0.0.0.0", "message": "Honeypot listening on 0.0.0.0:22"}
+{"type": "connection", "timestamp": "2026-02-10T04:50:06.462083", "source_ip": "192.168.65.1", "source_port": 25690}
+{"type": "disconnect", "timestamp": "2026-02-10T04:50:06.472356", "source_ip": "192.168.65.1", "duration_seconds": 0.0}
+{"type": "connection", "timestamp": "2026-02-10T04:51:42.986520", "source_ip": "172.20.0.10", "source_port": 53126}
+{"type": "connection", "timestamp": "2026-02-10T04:51:43.000630", "source_ip": "172.20.0.10", "source_port": 53142}
+{"type": "disconnect", "timestamp": "2026-02-10T04:51:43.000763", "source_ip": "172.20.0.10", "duration_seconds": 0.0}
+{"type": "disconnect", "timestamp": "2026-02-10T04:51:43.001700", "source_ip": "172.20.0.10", "duration_seconds": 0.0}
+{"type": "connection", "timestamp": "2026-02-10T05:01:43.882796", "source_ip": "172.20.0.10", "source_port": 48852}
+{"type": "disconnect", "timestamp": "2026-02-10T05:01:43.893429", "source_ip": "172.20.0.10", "duration_seconds": 0.0}
+{"type": "connection", "timestamp": "2026-02-10T05:01:43.897865", "source_ip": "172.20.0.10", "source_port": 48866}
+{"type": "disconnect", "timestamp": "2026-02-10T05:01:43.900154", "source_ip": "172.20.0.10", "duration_seconds": 0.0}
+{"type": "connection", "timestamp": "2026-02-10T05:35:07.809141", "source_ip": "192.168.65.1", "source_port": 25058}
+{"type": "client_banner", "timestamp": "2026-02-10T05:35:32.756642", "source_ip": "192.168.65.1", "message": ""}
+{"type": "auth_success", "timestamp": "2026-02-10T05:35:53.828849", "source_ip": "192.168.65.1", "message": "Accepted login as 'admin' (honeypot - always accepts on last try)"}
+{"type": "disconnect", "timestamp": "2026-02-10T05:36:34.372334", "source_ip": "192.168.65.1", "duration_seconds": 86.55}
